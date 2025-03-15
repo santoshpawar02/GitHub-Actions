@@ -28,4 +28,4 @@ jobs:
         with:
           name: file
       - name: Printing the file content
-        run: file.txt
+        run: cat file.txt
